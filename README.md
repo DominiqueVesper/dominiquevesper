@@ -6,8 +6,6 @@
   </a>
 </p>
 
-> Remember that you are unique! <3
-
 <!--
 **DominiqueVesper/dominiquevesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
