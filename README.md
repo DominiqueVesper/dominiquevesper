@@ -2,14 +2,6 @@
 
 ![SUNSET](https://i.pinimg.com/736x/f2/12/59/f21259319ce034cb6039d32c7d669176.jpg)
 
-<p align="center">
-  <a href="https://github.com/DominiqueVesper">
-    <img src="https://img.shields.io/badge/FOLLOW-%40DominiqueVesper-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
-
 <!--
 **DominiqueVesper/dominiquevesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
