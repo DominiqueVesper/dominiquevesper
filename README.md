@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/DominiqueVesper?label=Followers&style=for-the-badge&color=24292e"/>
+  <img src="https://img.shields.io/github/following/DominiqueVesper?label=Following&style=for-the-badge&color=24292e"/>
+</p>
+
 <!--
 **DominiqueVesper/dominiquevesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
