@@ -1,4 +1,4 @@
-![SUNSET](https://i.pinimg.com/originals/29/4d/93/294d93123bae16823d7eef3c70ee0c31.gif)
+![SUNSET](https://i.pinimg.com/736x/2d/b9/90/2db9908b6193be9df01c78554d404292.jpg)
 
 <p align="center">
   <a href="https://github.com/DominiqueVesper">
