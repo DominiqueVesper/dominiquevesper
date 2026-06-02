@@ -5,7 +5,11 @@
 <details>
 <summary>About me</summary>
 
-I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a small town with my lovely neighbors. 
+Hi guys! I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a small town with my lovely neighbors. 
+
+ My hobbies are diverse, but what I enjoy most is drawing things I imagine in my head.
+
+ I really enjoy playing Werewolf in real life! Because Werewolf is so fun and has so many roles, it's a great game to play. My favorite side is still the third side. 
 
 </details>
 
