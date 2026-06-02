@@ -9,6 +9,13 @@ I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a small town w
 
 </details>
 
+<details>
+<summary>I have played the following games</summary>
+
+PvZ, PvZ2, Block Blast, Minecraft, Pony Town, AOV, Stickman party, Roblox.
+
+</details>
+
 <!--
 **DominiqueVesper/dominiquevesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
