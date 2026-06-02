@@ -1,6 +1,6 @@
 <div align="center">(⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</div>
 
-![SUNSET](https://i.pinimg.com/736x/f2/12/59/f21259319ce034cb6039d32c7d669176.jpg)
+![SUNSET](https://i.pinimg.com/originals/66/3f/6d/663f6dbf145854a9fb0917fe35f8156a.gif)
 
 <details>
 <summary>About me:</summary>
