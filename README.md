@@ -16,13 +16,14 @@ Hi guys! I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a sma
 <details>
 <summary>I have played the following games:</summary>
 
-Plants vs zombie, Plants vs zombie 2, Block Blast, Minecraft, Pony Town, Stickman party, Roblox, Silent castle, The baby in yellow, Stick war: Legacy, EvoWars.io, Zombie tsunami, My talking Hank, Tank stars game, Candy crush saga, Brotato: Premium, Murder, Tower defense king, Brotato, Magica.io, Find it out, Fruit ninja classic, Level devil, Tomb of the mask, Friday night funkin', Snake.io, Stickman the flash, Annelids: Online battle, Smolsies: my cute pet house, My talking Tom 2, Viladia, Stick war: Saga, Mobile Legends: Bang Bang FT, Brain test, Magic tiles, Among us, Kick the buddy, Stacky bird, Beat fire, Pixel art.
+Plants vs zombie, Plants vs zombie 2, Block Blast, Minecraft, Pony Town, Stickman party, Roblox, Silent castle, The baby in yellow, Stick war: Legacy, EvoWars.io, Zombie tsunami, My talking Hank, Tank stars game, Candy crush saga, Brotato: Premium, Murder, Tower defense king, Brotato, Magica.io, Find it out, Fruit ninja classic, Level devil, Tomb of the mask, Friday night funkin', Snake.io, Stickman the flash, Annelids: Online battle, Smolsies: my cute pet house, My talking Tom 2, Viladia, Stick war: Saga, Mobile Legends: Bang Bang FT, Brain test, Magic tiles, Among us, Kick the buddy, Stacky bird, Beat fire.
 
 </details>
 
 <details>
 <summary>My fav English songs:</summary>
 
+(no rating)
 1. Outside - Calvin Harris
 2. Call me by your name - Lil Nas X
 3. Havana - Camila Cabello
