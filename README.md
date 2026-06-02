@@ -16,7 +16,7 @@ Hi guys! I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a sma
 <details>
 <summary>I have played the following games</summary>
 
-PvZ, PvZ2, Block Blast, Minecraft, Pony Town, AOV, Stickman party, Roblox.
+PvZ, PvZ2, Block Blast, Minecraft, Pony Town, AOV, Stickman party, Roblox, Silent castle, The baby in yellow, Stick war: Legacy, EvoWars.io, Zombie tsunami, My talking Hank, Tank stars game, Candy crush saga, Brotato: Premium, Murder, Tower defense king, Brotato, Magica.io, Find it out, Fruit ninja classic.
 
 </details>
 
