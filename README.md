@@ -5,7 +5,7 @@
 <details>
 <summary>About me:</summary>
 
-Hi guys! I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a small town with my lovely neighbors. 
+Hi guys! I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a small town with my lovely neighbors. By the way, I'm friendly. 
 
  My hobbies are diverse, but what I enjoy most is drawing things I imagine in my head.
 
