@@ -1,21 +1,9 @@
 <div align="center">(⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</div>
 
-![SUNSET](https://i.pinimg.com/736x/57/a2/49/57a249d5a2c2ed60bee58d7a9365e2cd.jpg)
+![SUNSET](https://i.pinimg.com/originals/1d/73/00/1d73004e445a5f99abeb96a8a2aa64c4.gif)
 
 <details>
-<summary>About me:</summary>
-
-Hi guys! I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a small town with my lovely neighbors. By the way, I'm friendly. 
-
- My hobbies are diverse, but what I enjoy most is drawing things I imagine in my head.
-
- I really enjoy playing Werewolves in real life! Because Werewolves is so fun and has so many roles, it's a great game to play. My favorite side is still the third side. 
-
-</details>
-
-
-<details>
-<summary>My fav English songs:</summary>
+<summary>My fav English songs (recommended for you, or you may have heard of it):</summary>
 
 (no rating)
 1. Outside - Calvin Harris
@@ -123,6 +111,12 @@ Hi guys! I'm 17yrs, and my real name is Quynh Anh in Vietnamese. I live in a sma
 103. 50 feet - SoMo
 104. Car's outside - James Arthur
 105. Counting stars - OneRepublic
+106. Want you - Clara La San
+107. Like that - Doja Cat ft Gucci Mane
+108. Collide - Justine Skye
+109. Double take - dhruv
+110. That's what I like - Bruno Mars
+     ...
 
 </details>
 
