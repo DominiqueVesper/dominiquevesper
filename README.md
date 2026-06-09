@@ -1,6 +1,6 @@
 <div align="center">(⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</div>
 
-![SUNSET](https://i.pinimg.com/originals/1d/73/00/1d73004e445a5f99abeb96a8a2aa64c4.gif)
+![SUNSET](https://i.pinimg.com/originals/bf/b1/3e/bfb13e34a14a89bc46a0b94085d39d9c.gif)
 
 <details>
 <summary>My fav English songs (recommended for you, or you may have heard of it):</summary>
