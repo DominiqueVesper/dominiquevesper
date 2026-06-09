@@ -1,8 +1,6 @@
 <div align="center">(⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</div>
 
-![SUNSET](https://i.pinimg.com/originals/bf/b1/3e/bfb13e34a14a89bc46a0b94085d39d9c.gif)
 
-> bruh
 
 <!--
 **DominiqueVesper/dominiquevesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
