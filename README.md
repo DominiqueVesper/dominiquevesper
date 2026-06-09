@@ -3,9 +3,7 @@
 ![SUNSET](https://i.pinimg.com/originals/bf/b1/3e/bfb13e34a14a89bc46a0b94085d39d9c.gif)
 
 <details>
-<summary>My fav English songs (recommended for you, or you may have heard of it):</summary>
 
-(no rating)
 1. Outside - Calvin Harris
 2. Call me by your name - Lil Nas X
 3. Havana - Camila Cabello
